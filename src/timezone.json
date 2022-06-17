@@ -1,0 +1,1274 @@
+[{
+    "ISO": "AF",
+    "Country": "Afghanistan",
+    "Timezone": "Asia/Kabul",
+    "Offset": 270
+  },
+  {
+    "ISO": "AL",
+    "Country": "Albania",
+    "Timezone": "Europe/Tirane",
+    "Offset": 120
+  },
+  {
+    "ISO": "DZ",
+    "Country": "Algeria",
+    "Timezone": "Africa/Algiers",
+    "Offset": 60
+  },
+  {
+    "ISO": "AO",
+    "Country": "Angola",
+    "Timezone": "Africa/Luanda",
+    "Offset": 60
+  },
+  {
+    "ISO": "AQ",
+    "Country": "Antarctica",
+    "Timezone": "Antarctica/Casey",
+    "Offset": 480
+  },
+  {
+    "ISO": "AR",
+    "Country": "Argentina",
+    "Timezone": "America/Argentina/Buenos_Aires",
+    "Offset": -180
+  },
+  {
+    "ISO": "AM",
+    "Country": "Armenia",
+    "Timezone": "Asia/Yerevan",
+    "Offset": 240
+  },
+  {
+    "ISO": "AU",
+    "Country": "Australia",
+    "Timezone": "Australia/Melbourne",
+    "Offset": 600
+  },
+  {
+    "ISO": "AU",
+    "Country": "Australia",
+    "Timezone": "Australia/Sydney",
+    "Offset": 600
+  },
+  {
+    "ISO": "AT",
+    "Country": "Austria",
+    "Timezone": "Europe/Vienna",
+    "Offset": 120
+  },
+  {
+    "ISO": "AZ",
+    "Country": "Azerbaijan",
+    "Timezone": "Asia/Baku",
+    "Offset": 240
+  },
+  {
+    "ISO": "BS",
+    "Country": "Bahamas",
+    "Timezone": "America/Nassau",
+    "Offset": -240
+  },
+  {
+    "ISO": "BH",
+    "Country": "Bahrain",
+    "Timezone": "Asia/Bahrain",
+    "Offset": 180
+  },
+  {
+    "ISO": "BD",
+    "Country": "Bangladesh",
+    "Timezone": "Asia/Dhaka",
+    "Offset": 360
+  },
+  {
+    "ISO": "BB",
+    "Country": "Barbados",
+    "Timezone": "America/Barbados",
+    "Offset": -240
+  },
+  {
+    "ISO": "BY",
+    "Country": "Belarus",
+    "Timezone": "Europe/Minsk",
+    "Offset": 180
+  },
+  {
+    "ISO": "BE",
+    "Country": "Belgium",
+    "Timezone": "Europe/Brussels",
+    "Offset": 120
+  },
+  {
+    "ISO": "BZ",
+    "Country": "Belize",
+    "Timezone": "America/Belize",
+    "Offset": -360
+  },
+  {
+    "ISO": "BJ",
+    "Country": "Benin",
+    "Timezone": "Africa/Porto-Novo",
+    "Offset": 60
+  },
+  {
+    "ISO": "BM",
+    "Country": "Bermuda",
+    "Timezone": "Atlantic/Bermuda",
+    "Offset": -180
+  },
+  {
+    "ISO": "BT",
+    "Country": "Bhutan",
+    "Timezone": "Asia/Thimphu",
+    "Offset": 360
+  },
+  {
+    "ISO": "BO",
+    "Country": "Bolivia",
+    "Timezone": "America/La_Paz",
+    "Offset": -240
+  },
+  {
+    "ISO": "BA",
+    "Country": "Bosnia and Herzegovina",
+    "Timezone": "Europe/Sarajevo",
+    "Offset": 120
+  },
+  {
+    "ISO": "BR",
+    "Country": "Brazil",
+    "Timezone": "America/Rio_Branco",
+    "Offset": -300
+  },
+  {
+    "ISO": "BN",
+    "Country": "Brunei",
+    "Timezone": "Asia/Brunei",
+    "Offset": 480
+  },
+  {
+    "ISO": "BG",
+    "Country": "Bulgaria",
+    "Timezone": "Europe/Sofia",
+    "Offset": 180
+  },
+  {
+    "ISO": "BI",
+    "Country": "Burundi",
+    "Timezone": "Africa/Bujumbura",
+    "Offset": 120
+  },
+  {
+    "ISO": "KH",
+    "Country": "Cambodia",
+    "Timezone": "Asia/Phnom_Penh",
+    "Offset": 420
+  },
+  {
+    "ISO": "CM",
+    "Country": "Cameroon",
+    "Timezone": "Africa/Douala",
+    "Offset": 60
+  },
+  {
+    "ISO": "CA",
+    "Country": "Canada",
+    "Timezone": "America/Atikokan",
+    "Offset": -300
+  },
+  {
+    "ISO": "CA",
+    "Country": "Canada",
+    "Timezone": "America/Blanc-Sablon",
+    "Offset": -240
+  },
+  {
+    "ISO": "CA",
+    "Country": "Canada",
+    "Timezone": "America/Cambridge_Bay",
+    "Offset": -360
+  },
+  {
+    "ISO": "CA",
+    "Country": "Canada",
+    "Timezone": "America/Creston",
+    "Offset": -420
+  },
+  {
+    "ISO": "CA",
+    "Country": "Canada",
+    "Timezone": "America/Dawson",
+    "Offset": -420
+  },
+  {
+    "ISO": "CA",
+    "Country": "Canada",
+    "Timezone": "America/Dawson_Creek",
+    "Offset": -420
+  },
+  {
+    "ISO": "CA",
+    "Country": "Canada",
+    "Timezone": "America/Edmonton",
+    "Offset": -360
+  },
+  {
+    "ISO": "CA",
+    "Country": "Canada",
+    "Timezone": "America/Fort_Nelson",
+    "Offset": -420
+  },
+  {
+    "ISO": "CA",
+    "Country": "Canada",
+    "Timezone": "America/Glace_Bay",
+    "Offset": -180
+  },
+  {
+    "ISO": "CA",
+    "Country": "Canada",
+    "Timezone": "America/Halifax",
+    "Offset": -180
+  },
+  {
+    "ISO": "CA",
+    "Country": "Canada",
+    "Timezone": "America/Inuvik",
+    "Offset": -360
+  },
+  {
+    "ISO": "CA",
+    "Country": "Canada",
+    "Timezone": "America/Iqaluit",
+    "Offset": -240
+  },
+  {
+    "ISO": "CA",
+    "Country": "Canada",
+    "Timezone": "America/Moncton",
+    "Offset": -180
+  },
+  {
+    "ISO": "CA",
+    "Country": "Canada",
+    "Timezone": "America/Nipigon",
+    "Offset": -240
+  },
+  {
+    "ISO": "CA",
+    "Country": "Canada",
+    "Timezone": "America/Pangnirtung",
+    "Offset": -240
+  },
+  {
+    "ISO": "CA",
+    "Country": "Canada",
+    "Timezone": "America/Rainy_River",
+    "Offset": -300
+  },
+  {
+    "ISO": "CA",
+    "Country": "Canada",
+    "Timezone": "America/Rankin_Inlet",
+    "Offset": -300
+  },
+  {
+    "ISO": "CA",
+    "Country": "Canada",
+    "Timezone": "America/Regina",
+    "Offset": -360
+  },
+  {
+    "ISO": "CA",
+    "Country": "Canada",
+    "Timezone": "America/Resolute",
+    "Offset": -300
+  },
+  {
+    "ISO": "CA",
+    "Country": "Canada",
+    "Timezone": "America/St_Johns",
+    "Offset": -90
+  },
+  {
+    "ISO": "CA",
+    "Country": "Canada",
+    "Timezone": "America/Swift_Current",
+    "Offset": -360
+  },
+  {
+    "ISO": "CA",
+    "Country": "Canada",
+    "Timezone": "America/Thunder_Bay",
+    "Offset": -240
+  },
+  {
+    "ISO": "CA",
+    "Country": "Canada",
+    "Timezone": "America/Toronto",
+    "Offset": -240
+  },
+  {
+    "ISO": "CA",
+    "Country": "Canada",
+    "Timezone": "America/Vancouver",
+    "Offset": -420
+  },
+  {
+    "ISO": "CA",
+    "Country": "Canada",
+    "Timezone": "America/Whitehorse",
+    "Offset": -420
+  },
+  {
+    "ISO": "CA",
+    "Country": "Canada",
+    "Timezone": "America/Yellowknife",
+    "Offset": -360
+  },
+  {
+    "ISO": "KY",
+    "Country": "Cayman Islands",
+    "Timezone": "America/Cayman",
+    "Offset": -300
+  },
+  {
+    "ISO": "CF",
+    "Country": "Central African Republic",
+    "Timezone": "Africa/Bangui",
+    "Offset": 60
+  },
+  {
+    "ISO": "TD",
+    "Country": "Chad",
+    "Timezone": "Africa/Ndjamena",
+    "Offset": 60
+  },
+  {
+    "ISO": "CL",
+    "Country": "Chile",
+    "Timezone": "America/Santiago",
+    "Offset": -240
+  },
+  {
+    "ISO": "CN",
+    "Country": "China",
+    "Timezone": "Asia/Beijing",
+    "Offset": 480
+  },
+  {
+    "ISO": "CC",
+    "Country": "Cocos Islands",
+    "Timezone": "Indian/Cocos",
+    "Offset": 390
+  },
+  {
+    "ISO": "CO",
+    "Country": "Colombia",
+    "Timezone": "America/Bogota",
+    "Offset": -300
+  },
+  {
+    "ISO": "CK",
+    "Country": "Cook Islands",
+    "Timezone": "Pacific/Rarotonga",
+    "Offset": -600
+  },
+  {
+    "ISO": "CR",
+    "Country": "Costa Rica",
+    "Timezone": "America/Costa_Rica",
+    "Offset": -360
+  },
+  {
+    "ISO": "HR",
+    "Country": "Croatia",
+    "Timezone": "Europe/Zagreb",
+    "Offset": 120
+  },
+  {
+    "ISO": "CU",
+    "Country": "Cuba",
+    "Timezone": "America/Havana",
+    "Offset": -240
+  },
+  {
+    "ISO": "CY",
+    "Country": "Cyprus",
+    "Timezone": "Asia/Nicosia",
+    "Offset": 180
+  },
+  {
+    "ISO": "CZ",
+    "Country": "Czech Republic",
+    "Timezone": "Europe/Prague",
+    "Offset": 120
+  },
+  {
+    "ISO": "CD",
+    "Country": "Democratic Republic of the Congo",
+    "Timezone": "Africa/Kinshasa",
+    "Offset": 60
+  },
+  {
+    "ISO": "DK",
+    "Country": "Denmark",
+    "Timezone": "Europe/Copenhagen",
+    "Offset": 120
+  },
+  {
+    "ISO": "DJ",
+    "Country": "Djibouti",
+    "Timezone": "Africa/Djibouti",
+    "Offset": 180
+  },
+  {
+    "ISO": "DM",
+    "Country": "Dominica",
+    "Timezone": "America/Dominica",
+    "Offset": -240
+  },
+  {
+    "ISO": "DO",
+    "Country": "Dominican Republic",
+    "Timezone": "America/Santo_Domingo",
+    "Offset": -240
+  },
+  {
+    "ISO": "TL",
+    "Country": "East Timor",
+    "Timezone": "Asia/Dili",
+    "Offset": 540
+  },
+  {
+    "ISO": "EC",
+    "Country": "Ecuador",
+    "Timezone": "America/Quito",
+    "Offset": -300
+  },
+  {
+    "ISO": "EG",
+    "Country": "Egypt",
+    "Timezone": "Africa/Cairo",
+    "Offset": 120
+  },
+  {
+    "ISO": "SV",
+    "Country": "El Salvador",
+    "Timezone": "America/El_Salvador",
+    "Offset": -360
+  },
+  {
+    "ISO": "ER",
+    "Country": "Eritrea",
+    "Timezone": "Africa/Asmara",
+    "Offset": 180
+  },
+  {
+    "ISO": "EE",
+    "Country": "Estonia",
+    "Timezone": "Europe/Tallinn",
+    "Offset": 180
+  },
+  {
+    "ISO": "ET",
+    "Country": "Ethiopia",
+    "Timezone": "Africa/Addis_Ababa",
+    "Offset": 180
+  },
+  {
+    "ISO": "FK",
+    "Country": "Falkland Islands",
+    "Timezone": "Atlantic/Stanley",
+    "Offset": -180
+  },
+  {
+    "ISO": "FJ",
+    "Country": "Fiji",
+    "Timezone": "Pacific/Fiji",
+    "Offset": 720
+  },
+  {
+    "ISO": "FI",
+    "Country": "Finland",
+    "Timezone": "Europe/Helsinki",
+    "Offset": 180
+  },
+  {
+    "ISO": "FR",
+    "Country": "France",
+    "Timezone": "Europe/Paris",
+    "Offset": 120
+  },
+  {
+    "ISO": "GA",
+    "Country": "Gabon",
+    "Timezone": "Africa/Libreville",
+    "Offset": 60
+  },
+  {
+    "ISO": "GM",
+    "Country": "Gambia",
+    "Timezone": "Africa/Banjul",
+    "Offset": 0
+  },
+  {
+    "ISO": "GE",
+    "Country": "Georgia",
+    "Timezone": "Asia/Tbilisi",
+    "Offset": 240
+  },
+  {
+    "ISO": "DE",
+    "Country": "Germany",
+    "Timezone": "Europe/Berlin",
+    "Offset": 120
+  },
+  {
+    "ISO": "GH",
+    "Country": "Ghana",
+    "Timezone": "Africa/Accra",
+    "Offset": 0
+  },
+  {
+    "ISO": "GI",
+    "Country": "Gibraltar",
+    "Timezone": "Europe/Gibraltar",
+    "Offset": 120
+  },
+  {
+    "ISO": "GR",
+    "Country": "Greece",
+    "Timezone": "Europe/Athens",
+    "Offset": 180
+  },
+  {
+    "ISO": "GL",
+    "Country": "Greenland",
+    "Timezone": "America/Nuuk",
+    "Offset": 0
+  },
+  {
+    "ISO": "GT",
+    "Country": "Guatemala",
+    "Timezone": "America/Guatemala",
+    "Offset": -360
+  },
+  {
+    "ISO": "GN",
+    "Country": "Guinea",
+    "Timezone": "Africa/Conakry",
+    "Offset": 0
+  },
+  {
+    "ISO": "HT",
+    "Country": "Haiti",
+    "Timezone": "America/Port-au-Prince",
+    "Offset": -240
+  },
+  {
+    "ISO": "HN",
+    "Country": "Honduras",
+    "Timezone": "America/Tegucigalpa",
+    "Offset": -360
+  },
+  {
+    "ISO": "HK",
+    "Country": "Hong Kong",
+    "Timezone": "Asia/Hong_Kong",
+    "Offset": 480
+  },
+  {
+    "ISO": "HU",
+    "Country": "Hungary",
+    "Timezone": "Europe/Budapest",
+    "Offset": 120
+  },
+  {
+    "ISO": "IS",
+    "Country": "Iceland",
+    "Timezone": "Atlantic/Reykjavik",
+    "Offset": 0
+  },
+  {
+    "ISO": "IN",
+    "Country": "India",
+    "Timezone": "Asia/Delhi",
+    "Offset": 330
+  },
+  {
+    "ISO": "ID",
+    "Country": "Indonesia",
+    "Timezone": "Asia/Jakarta",
+    "Offset": 420
+  },
+
+  {
+    "ISO": "IR",
+    "Country": "Iran",
+    "Timezone": "Asia/Tehran",
+    "Offset": 270
+  },
+  {
+    "ISO": "IQ",
+    "Country": "Iraq",
+    "Timezone": "Asia/Baghdad",
+    "Offset": 180
+  },
+  {
+    "ISO": "IE",
+    "Country": "Ireland",
+    "Timezone": "Europe/Dublin",
+    "Offset": 60
+  },
+  {
+    "ISO": "IL",
+    "Country": "Israel",
+    "Timezone": "Asia/Jerusalem",
+    "Offset": 180
+  },
+  {
+    "ISO": "IT",
+    "Country": "Italy",
+    "Timezone": "Europe/Rome",
+    "Offset": 120
+  },
+  {
+    "ISO": "CI",
+    "Country": "Ivory Coast",
+    "Timezone": "Africa/Abidjan",
+    "Offset": 0
+  },
+  {
+    "ISO": "JM",
+    "Country": "Jamaica",
+    "Timezone": "America/Jamaica",
+    "Offset": -300
+  },
+  {
+    "ISO": "JP",
+    "Country": "Japan",
+    "Timezone": "Asia/Tokyo",
+    "Offset": 540
+  },
+  {
+    "ISO": "JE",
+    "Country": "Jersey",
+    "Timezone": "Europe/Jersey",
+    "Offset": 60
+  },
+  {
+    "ISO": "JO",
+    "Country": "Jordan",
+    "Timezone": "Asia/Amman",
+    "Offset": 180
+  },  
+  {
+    "ISO": "KZ",
+    "Country": "Kazakhstan",
+    "Timezone": "Asia/Nur-Sultan",
+    "Offset": 360
+  },
+  {
+    "ISO": "KE",
+    "Country": "Kenya",
+    "Timezone": "Africa/Nairobi",
+    "Offset": 180
+  },
+  {
+    "ISO": "KI",
+    "Country": "Kiribati",
+    "Timezone": "Pacific/Tarawa",
+    "Offset": 720
+  },
+  {
+    "ISO": "KW",
+    "Country": "Kuwait",
+    "Timezone": "Asia/Kuwait",
+    "Offset": 180
+  },
+  {
+    "ISO": "KG",
+    "Country": "Kyrgyzstan",
+    "Timezone": "Asia/Bishkek",
+    "Offset": 360
+  },
+  {
+    "ISO": "LA",
+    "Country": "Laos",
+    "Timezone": "Asia/Vientiane",
+    "Offset": 420
+  },
+  {
+    "ISO": "LV",
+    "Country": "Latvia",
+    "Timezone": "Europe/Riga",
+    "Offset": 180
+  },
+  {
+    "ISO": "LB",
+    "Country": "Lebanon",
+    "Timezone": "Asia/Beirut",
+    "Offset": 180
+  },
+  {
+    "ISO": "LR",
+    "Country": "Liberia",
+    "Timezone": "Africa/Monrovia",
+    "Offset": 0
+  },
+  {
+    "ISO": "LY",
+    "Country": "Libya",
+    "Timezone": "Africa/Tripoli",
+    "Offset": 120
+  },
+  {
+    "ISO": "LT",
+    "Country": "Lithuania",
+    "Timezone": "Europe/Vilnius",
+    "Offset": 180
+  },
+  {
+    "ISO": "LU",
+    "Country": "Luxembourg",
+    "Timezone": "Europe/Luxembourg",
+    "Offset": 120
+  },
+  {
+    "ISO": "MO",
+    "Country": "Macao",
+    "Timezone": "Asia/Macau",
+    "Offset": 480
+  },
+  {
+    "ISO": "MK",
+    "Country": "Macedonia",
+    "Timezone": "Europe/Skopje",
+    "Offset": 120
+  },
+  {
+    "ISO": "MG",
+    "Country": "Madagascar",
+    "Timezone": "Indian/Antananarivo",
+    "Offset": 180
+  },
+  {
+    "ISO": "MW",
+    "Country": "Malawi",
+    "Timezone": "Africa/Blantyre",
+    "Offset": 120
+  },
+  {
+    "ISO": "MY",
+    "Country": "Malaysia",
+    "Timezone": "Asia/Kuala_Lumpur",
+    "Offset": 480
+  },
+  {
+    "ISO": "MV",
+    "Country": "Maldives",
+    "Timezone": "Asia/Maldives",
+    "Offset": 300
+  },
+  {
+    "ISO": "ML",
+    "Country": "Mali",
+    "Timezone": "Africa/Bamako",
+    "Offset": 0
+  },
+  {
+    "ISO": "MT",
+    "Country": "Malta",
+    "Timezone": "Europe/Malta",
+    "Offset": 120
+  },
+  {
+    "ISO": "MR",
+    "Country": "Mauritania",
+    "Timezone": "Africa/Nouakchott",
+    "Offset": 0
+  },
+  {
+    "ISO": "MX",
+    "Country": "Mexico",
+    "Timezone": "America/Mexico_City",
+    "Offset": -300
+  },
+  {
+    "ISO": "FM",
+    "Country": "Micronesia",
+    "Timezone": "Pacific/Chuuk",
+    "Offset": 600
+  },
+  {
+    "ISO": "MD",
+    "Country": "Moldova",
+    "Timezone": "Europe/Chisinau",
+    "Offset": 180
+  },
+  {
+    "ISO": "MC",
+    "Country": "Monaco",
+    "Timezone": "Europe/Monaco",
+    "Offset": 120
+  },
+  {
+    "ISO": "MN",
+    "Country": "Mongolia",
+    "Timezone": "Asia/Choibalsan",
+    "Offset": 480
+  },
+  {
+    "ISO": "ME",
+    "Country": "Montenegro",
+    "Timezone": "Europe/Podgorica",
+    "Offset": 120
+  },
+  {
+    "ISO": "MS",
+    "Country": "Montserrat",
+    "Timezone": "America/Montserrat",
+    "Offset": -240
+  },
+  {
+    "ISO": "MA",
+    "Country": "Morocco",
+    "Timezone": "Africa/Casablanca",
+    "Offset": 60
+  },
+  {
+    "ISO": "MZ",
+    "Country": "Mozambique",
+    "Timezone": "Africa/Maputo",
+    "Offset": 120
+  },
+  {
+    "ISO": "MM",
+    "Country": "Myanmar",
+    "Timezone": "Asia/Yangon",
+    "Offset": 390
+  },
+  {
+    "ISO": "NA",
+    "Country": "Namibia",
+    "Timezone": "Africa/Windhoek",
+    "Offset": 120
+  },
+  {
+    "ISO": "NR",
+    "Country": "Nauru",
+    "Timezone": "Pacific/Nauru",
+    "Offset": 720
+  },
+  {
+    "ISO": "NP",
+    "Country": "Nepal",
+    "Timezone": "Asia/Kathmandu",
+    "Offset": 345
+  },
+  {
+    "ISO": "NL",
+    "Country": "Netherlands",
+    "Timezone": "Europe/Amsterdam",
+    "Offset": 120
+  },
+  {
+    "ISO": "NZ",
+    "Country": "New Zealand",
+    "Timezone": "Pacific/Auckland",
+    "Offset": 720
+  },
+  {
+    "ISO": "NI",
+    "Country": "Nicaragua",
+    "Timezone": "America/Managua",
+    "Offset": -360
+  },
+  {
+    "ISO": "NE",
+    "Country": "Niger",
+    "Timezone": "Africa/Niamey",
+    "Offset": 60
+  },
+  {
+    "ISO": "NG",
+    "Country": "Nigeria",
+    "Timezone": "Africa/Lagos",
+    "Offset": 60
+  },
+  {
+    "ISO": "KP",
+    "Country": "North Korea",
+    "Timezone": "Asia/Pyongyang",
+    "Offset": 540
+  },
+  {
+    "ISO": "NO",
+    "Country": "Norway",
+    "Timezone": "Europe/Oslo",
+    "Offset": 120
+  },
+  {
+    "ISO": "OM",
+    "Country": "Oman",
+    "Timezone": "Asia/Muscat",
+    "Offset": 240
+  },
+  {
+    "ISO": "PK",
+    "Country": "Pakistan",
+    "Timezone": "Asia/Karachi",
+    "Offset": 300
+  },
+  {
+    "ISO": "PS",
+    "Country": "Palestinian",
+    "Timezone": "Asia/Gaza",
+    "Offset": 180
+  },
+  {
+    "ISO": "PA",
+    "Country": "Panama",
+    "Timezone": "America/Panama",
+    "Offset": -300
+  },
+  {
+    "ISO": "PG",
+    "Country": "Papua New Guinea",
+    "Timezone": "Pacific/Bougainville",
+    "Offset": 660
+  },
+  {
+    "ISO": "PY",
+    "Country": "Paraguay",
+    "Timezone": "America/Asuncion",
+    "Offset": -240
+  },
+  {
+    "ISO": "PE",
+    "Country": "Peru",
+    "Timezone": "America/Lima",
+    "Offset": -300
+  },
+  {
+    "ISO": "PH",
+    "Country": "Philippines",
+    "Timezone": "Asia/Manila",
+    "Offset": 480
+  },
+  {
+    "ISO": "PL",
+    "Country": "Poland",
+    "Timezone": "Europe/Warsaw",
+    "Offset": 120
+  },
+  {
+    "ISO": "PT",
+    "Country": "Portugal",
+    "Timezone": "Europe/Lisbon",
+    "Offset": 60
+  },
+  {
+    "ISO": "PR",
+    "Country": "Puerto Rico",
+    "Timezone": "America/Puerto_Rico",
+    "Offset": -240
+  },
+  {
+    "ISO": "QA",
+    "Country": "Qatar",
+    "Timezone": "Asia/Qatar",
+    "Offset": 180
+  },
+  {
+    "ISO": "CG",
+    "Country": "Republic of the Congo",
+    "Timezone": "Africa/Brazzaville",
+    "Offset": 60
+  },
+  {
+    "ISO": "RO",
+    "Country": "Romania",
+    "Timezone": "Europe/Bucharest",
+    "Offset": 180
+  },
+  {
+    "ISO": "RU",
+    "Country": "Russia",
+    "Timezone": "Europe/Moscow",
+    "Offset": 180
+  },
+  {
+    "ISO": "RW",
+    "Country": "Rwanda",
+    "Timezone": "Africa/Kigali",
+    "Offset": 120
+  },
+  {
+    "ISO": "LC",
+    "Country": "Saint Lucia",
+    "Timezone": "America/St_Lucia",
+    "Offset": -240
+  },
+  {
+    "ISO": "SA",
+    "Country": "Saudi Arabia",
+    "Timezone": "Asia/Riyadh",
+    "Offset": 180
+  },
+  {
+    "ISO": "SN",
+    "Country": "Senegal",
+    "Timezone": "Africa/Dakar",
+    "Offset": 0
+  },
+  {
+    "ISO": "RS",
+    "Country": "Serbia",
+    "Timezone": "Europe/Belgrade",
+    "Offset": 120
+  },
+  {
+    "ISO": "SL",
+    "Country": "Sierra Leone",
+    "Timezone": "Africa/Freetown",
+    "Offset": 0
+  },
+  {
+    "ISO": "SG",
+    "Country": "Singapore",
+    "Timezone": "Asia/Singapore",
+    "Offset": 480
+  },
+  {
+    "ISO": "SK",
+    "Country": "Slovakia",
+    "Timezone": "Europe/Bratislava",
+    "Offset": 120
+  },
+  {
+    "ISO": "SI",
+    "Country": "Slovenia",
+    "Timezone": "Europe/Ljubljana",
+    "Offset": 120
+  },
+  {
+    "ISO": "SB",
+    "Country": "Solomon Islands",
+    "Timezone": "Pacific/Guadalcanal",
+    "Offset": 660
+  },
+  {
+    "ISO": "SO",
+    "Country": "Somalia",
+    "Timezone": "Africa/Mogadishu",
+    "Offset": 180
+  },
+  {
+    "ISO": "ZA",
+    "Country": "South Africa",
+    "Timezone": "Africa/Johannesburg",
+    "Offset": 120
+  },
+  {
+    "ISO": "KR",
+    "Country": "South Korea",
+    "Timezone": "Asia/Seoul",
+    "Offset": 540
+  },
+  {
+    "ISO": "SS",
+    "Country": "South Sudan",
+    "Timezone": "Africa/Juba",
+    "Offset": 180
+  },
+  {
+    "ISO": "ES",
+    "Country": "Spain",
+    "Timezone": "Europe/Madrid",
+    "Offset": 120
+  },
+  {
+    "ISO": "LK",
+    "Country": "Sri Lanka",
+    "Timezone": "Asia/Colombo",
+    "Offset": 330
+  },
+  {
+    "ISO": "SD",
+    "Country": "Sudan",
+    "Timezone": "Africa/Khartoum",
+    "Offset": 120
+  },
+  {
+    "ISO": "SR",
+    "Country": "Suriname",
+    "Timezone": "America/Paramaribo",
+    "Offset": -180
+  },
+  {
+    "ISO": "SE",
+    "Country": "Sweden",
+    "Timezone": "Europe/Stockholm",
+    "Offset": 120
+  },
+  {
+    "ISO": "CH",
+    "Country": "Switzerland",
+    "Timezone": "Europe/Zurich",
+    "Offset": 120
+  },
+  {
+    "ISO": "SY",
+    "Country": "Syria",
+    "Timezone": "Asia/Damascus",
+    "Offset": 180
+  },
+  {
+    "ISO": "TW",
+    "Country": "Taiwan",
+    "Timezone": "Asia/Taipei",
+    "Offset": 480
+  },
+  {
+    "ISO": "TJ",
+    "Country": "Tajikistan",
+    "Timezone": "Asia/Dushanbe",
+    "Offset": 300
+  },
+  {
+    "ISO": "TZ",
+    "Country": "Tanzania",
+    "Timezone": "Africa/Dar_es_Salaam",
+    "Offset": 180
+  },
+  {
+    "ISO": "TH",
+    "Country": "Thailand",
+    "Timezone": "Asia/Bangkok",
+    "Offset": 420
+  },
+  {
+    "ISO": "TG",
+    "Country": "Togo",
+    "Timezone": "Africa/Lome",
+    "Offset": 0
+  },
+  {
+    "ISO": "TO",
+    "Country": "Tonga",
+    "Timezone": "Pacific/Tongatapu",
+    "Offset": 780
+  },
+  {
+    "ISO": "TT",
+    "Country": "Trinidad and Tobago",
+    "Timezone": "America/Port_of_Spain",
+    "Offset": -240
+  },
+  {
+    "ISO": "TN",
+    "Country": "Tunisia",
+    "Timezone": "Africa/Tunis",
+    "Offset": 60
+  },
+  {
+    "ISO": "TR",
+    "Country": "Turkey",
+    "Timezone": "Europe/Istanbul",
+    "Offset": 180
+  },
+  {
+    "ISO": "TM",
+    "Country": "Turkmenistan",
+    "Timezone": "Asia/Ashgabat",
+    "Offset": 300
+  },
+  {
+    "ISO": "UG",
+    "Country": "Uganda",
+    "Timezone": "Africa/Kampala",
+    "Offset": 180
+  },
+  {
+    "ISO": "UA",
+    "Country": "Ukraine",
+    "Timezone": "Europe/Kiev",
+    "Offset": 180
+  },
+  {
+    "ISO": "AE",
+    "Country": "United Arab Emirates",
+    "Timezone": "Asia/Dubai",
+    "Offset": 240
+  },
+  {
+    "ISO": "GB",
+    "Country": "United Kingdom",
+    "Timezone": "Europe/London",
+    "Offset": 60
+  },
+  {
+    "ISO": "US",
+    "Country": "United States",
+    "Timezone": "America/New_York",
+    "Offset": -240
+  },
+  {
+    "ISO": "US",
+    "Country": "United States",
+    "Timezone": "America/North_Dakota",
+    "Offset": -300
+  },
+  {
+    "ISO": "UY",
+    "Country": "Uruguay",
+    "Timezone": "America/Montevideo",
+    "Offset": -180
+  },
+  {
+    "ISO": "UZ",
+    "Country": "Uzbekistan",
+    "Timezone": "Asia/Samarkand",
+    "Offset": 300
+  },
+  {
+    "ISO": "VA",
+    "Country": "Vatican",
+    "Timezone": "Europe/Vatican",
+    "Offset": 120
+  },
+  {
+    "ISO": "VE",
+    "Country": "Venezuela",
+    "Timezone": "America/Caracas",
+    "Offset": -240
+  },
+  {
+    "ISO": "VN",
+    "Country": "Vietnam",
+    "Timezone": "Asia/Ho_Chi_Minh",
+    "Offset": 420
+  },
+  {
+    "ISO": "YE",
+    "Country": "Yemen",
+    "Timezone": "Asia/Aden",
+    "Offset": 180
+  },
+  {
+    "ISO": "ZM",
+    "Country": "Zambia",
+    "Timezone": "Africa/Lusaka",
+    "Offset": 120
+  },
+  {
+    "ISO": "ZW",
+    "Country": "Zimbabwe",
+    "Timezone": "Africa/Harare",
+    "Offset": 120
+  }
+]
