@@ -75,7 +75,7 @@ const App = () => {
         <Modal closeModal={closeModalHandler} showModal={showModal}></Modal>
       )}
       <BaseClock />
-      <Event addEvent={addEventHandler} myEvent={myEventHandler} />
+      {/* <Event addEvent={addEventHandler} myEvent={myEventHandler} /> */}
       <SectionBox value={option} onChange={handleSelectChange}>
         <div style={{ display: 'flex' }}>
           <OptionInput>

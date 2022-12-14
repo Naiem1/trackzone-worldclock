@@ -1,10 +1,13 @@
 {
+  "homepage": "https://Naiem1.github.io/trackzone-worldclock",
   "name": "tzp",
   "private": true,
   "version": "0.0.0",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "preview": "vite preview"
   },
   "dependencies": {
